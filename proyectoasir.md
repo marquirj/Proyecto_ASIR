@@ -35,6 +35,7 @@ de compra para así garantizar que no haya fraudes ni que intenten estafar a nue
 | Dirección | CL VALENCIA Num.333 P. BJ  (BARCELONA) |
 
 Estos son sus directivos, tienen una estructura organizativa lineal.
+
 | DIRECTIVO | CARGO |
 | --------------- | ----------------------------- |
 |OLIVE JUVE GEORGINA | VICE SECRETARIO NO CONS |
