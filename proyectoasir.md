@@ -204,7 +204,7 @@ Análisis de los factores externos:
 - Riesgo de imitación
 - Local arrendado
 ## Análisis de los factores internos
-###Fortalezas:
+### Fortalezas:
 - Organización y estructura
  - Innovación
 - Personalización
@@ -216,6 +216,7 @@ Análisis de los factores externos:
 - Relación bajo precio, baja calidad
 - Escasa gama de productos
 - Segmento de clientes·Escasa distribución geográfica de las ventas
+
 ### Presupuesto teniendo en cuenta:
 
 Necesidades en cuanto a RRHH:
